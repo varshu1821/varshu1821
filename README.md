@@ -15,7 +15,7 @@ Programming: Python
 I'm open to opportunities, collaborations, and discussions related to machine learning and artificial intelligence.
 
  📫 How to reach me ...
-Feel free to connect with me on [LinkedIn](linkedin.com/in/varshini-r-26709a21b/) or send me an email at [varshiniravikumar2002@gmail.com].
+Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/varshini-r-26709a21b/) or send me an email at [varshiniravikumar2002@gmail.com].
 
 Let's work together to advance the world of machine learning!
 
